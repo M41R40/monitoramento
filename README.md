@@ -3,8 +3,8 @@
 Sistema de monitoramento de disponibilidade de sites utilizando **Selenium, Firefox, PostgreSQL e Streamlit**, com suporte a monitoramento de endereços `.onion` através da rede Tor.
 
 O projeto foi desenvolvido com foco em **monitoramento automatizado, armazenamento histórico das verificações e visualização dos resultados em um dashboard web**.
-
-### Inspirado em: https://www.ransomlook.io/urls e para continuação dos meus estudos sobre darkweb com automatização da busca por novas fontes. 
+---
+#### Inspirado em: https://www.ransomlook.io/urls e para continuação dos meus estudos sobre darkweb com automatização da busca por novas fontes. 
 ---
 
 ## Objetivo
