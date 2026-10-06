@@ -1,0 +1,5 @@
+streamlit
+psycopg[binary]
+pandas
+selenium
+python-dotenv
