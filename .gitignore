@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Credenciais
+.env
+
+# Arquivos de resultado
+*.csv
+
+# Arquivos temporários
+*.log
+
+# Fontes reais
+links.txt
